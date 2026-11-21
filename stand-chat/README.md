@@ -4,11 +4,24 @@
 
 ## Install
 
-In a Claude Code session, version 2.1.275 or later:
+In the Claude desktop app:
+
+1. Open **Plugins** in the sidebar and choose **Add → Add marketplace**.
+2. Enter `standchat/claude-plugin`.
+3. Select **Add to this computer** next to Stand Chat.
+4. On the plugin's page, select **Connect** next to `stand` and sign in to Stand.
+
+In a terminal, for Claude Code:
 
 ```
-/plugin install stand-chat --marketplace standchat/claude-plugin
+claude plugin marketplace add standchat/claude-plugin
 ```
+
+```
+claude plugin install stand-chat@standchat
+```
+
+Then run `/mcp` in a Claude Code session and sign in to `stand`.
 
 ## Use it
 
