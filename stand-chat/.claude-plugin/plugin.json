@@ -1,0 +1,22 @@
+{
+  "name": "stand-chat",
+  "displayName": "Stand Chat",
+  "version": "1.0.0",
+  "description": "Add Stand Chat to your website, then ask Claude about your visitor chats and update your Site instructions from Claude.",
+  "author": {
+    "name": "Stand Chat, Inc.",
+    "email": "crew@stand.chat",
+    "url": "https://stand.chat"
+  },
+  "homepage": "https://stand.chat/guide/mcp",
+  "privacyPolicyUrl": "https://stand.chat/privacy",
+  "repository": "https://github.com/standchat/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "website chat",
+    "live chat",
+    "customer conversations",
+    "AI assistant"
+  ],
+  "icon": "./assets/icon.png"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stand": {
+      "type": "http",
+      "url": "https://app.stand.chat/mcp"
+    }
+  }
+}

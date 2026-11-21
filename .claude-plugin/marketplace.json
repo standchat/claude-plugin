@@ -1,0 +1,17 @@
+{
+  "name": "standchat",
+  "owner": {
+    "name": "Stand Chat, Inc.",
+    "email": "crew@stand.chat"
+  },
+  "metadata": {
+    "description": "Stand Chat's plugin for Claude."
+  },
+  "plugins": [
+    {
+      "name": "stand-chat",
+      "source": "./stand-chat",
+      "description": "Add Stand Chat to your website, then ask Claude about your visitor chats and update your Site instructions from Claude."
+    }
+  ]
+}
